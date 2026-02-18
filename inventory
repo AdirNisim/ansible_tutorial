@@ -1,2 +1,9 @@
 server-1
 server-2
+
+
+[application]
+server-1
+
+[databases]
+server-2
